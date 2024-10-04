@@ -6,6 +6,7 @@ total_bill = float(input('What was the total bill?\n $'))
 tip = int(input('How much tip would you like to give? 10, 12 or 15\n'))
 people = int(input('How many people to split the bill?\n'))
 # Calculate the tip amount and the total bill and then Split the bill among people
-Bill = (total_bill + tip) / people
+tip_total = (tip / 100) * total_bill
+Bill = (total_bill + tip_total) / people
 # Display the amount each person should pay
 print(f'Each Person should Pay: ${round(Bill, 2)}')
