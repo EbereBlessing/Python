@@ -4,3 +4,4 @@ Welcome to my journey through the 100 Days of Python Challenge! This folder cont
 - Day One - Band Name Generator
 - Day Two - Tip Calculator
 - Day Three - Treasure Island
+- Day Four- Rock Paper Scissors
