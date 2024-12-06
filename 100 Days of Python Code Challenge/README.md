@@ -6,4 +6,5 @@ BEGINNER LEVEL
 - Day Two - Tip Calculator
 - Day Three - Treasure Island
 - Day Four - Rock Paper Scissors
-- Day Five -
+- Day Five - Password Generator
+- Day Six - 

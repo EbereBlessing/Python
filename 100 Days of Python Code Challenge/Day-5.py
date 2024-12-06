@@ -1,4 +1,3 @@
-# Python Randomization and List
 # CODE CHALLENGE - Create a Password Generator 
 #Password Generator Project
 import random
